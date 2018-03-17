@@ -1,0 +1,2 @@
+# JsForinStatement
+for – in文
